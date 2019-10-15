@@ -1,6 +1,6 @@
 <h1>Frequentist Statistics</h1>
 
-**Covered Topics**
+**Covered Concepts**
 * the _z_-statistic
 * the _t_-statistic
 * the difference and relationship between the two
