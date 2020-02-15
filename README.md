@@ -9,6 +9,7 @@ This repository contains all assignments/mini projects for Springboard's Data Sc
 ### Statistical Methods for Data Analysis
 1. [Frequentist Statistics](https://github.com/nphan20181/Springboard-Data-Science-Career-Track/tree/master/frequentist_statistics)
 2. [Bootstrap Inference](https://github.com/nphan20181/Springboard-Data-Science-Career-Track/blob/master/inferential_statistics_2-Q.ipynb)
+3. [Bayesian](https://github.com/nphan20181/Springboard-Data-Science-Career-Track/blob/master/inferential_statistics_3-Q.ipynb)
 
 ## Capstone Projects
 1. [Loan Default Prediction](https://github.com/nphan20181/Loan-Default-Prediction)
