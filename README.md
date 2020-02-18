@@ -13,3 +13,4 @@ This repository contains all assignments/mini projects for Springboard's Data Sc
 
 ## Capstone Projects
 1. [Loan Default Prediction](https://github.com/nphan20181/Loan-Default-Prediction)
+2. TBD
