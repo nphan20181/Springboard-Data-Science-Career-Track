@@ -13,6 +13,9 @@ This repository contains all assignments/mini projects for Springboard's Data Sc
 
 ### Machine Learning
 1. [Linear Regression using Boston Housing Dataset](https://github.com/nphan20181/Springboard-Data-Science-Career-Track/blob/master/Mini_Project_Linear_Regression.ipynb)
+2. Heights and Weights Using Logistic Regression
+3. Predicting Movie Ratings from Reviews Using Naive Bayes
+4. Customer Segmentation Using Clustering
 
 ## Capstone Projects
 1. [2018 LendingClub Loan Data](https://github.com/nphan20181/Loan-Default-Prediction)
