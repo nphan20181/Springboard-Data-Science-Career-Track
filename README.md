@@ -9,11 +9,13 @@ This repository contains all assignments/mini projects for Springboard's Data Sc
 ### Statistical Methods for Data Analysis
 1. [Frequentist Statistics](https://github.com/nphan20181/Springboard-Data-Science-Career-Track/tree/master/frequentist_statistics)
 2. [Bootstrap Inference](https://github.com/nphan20181/Springboard-Data-Science-Career-Track/blob/master/inferential_statistics_2-Q.ipynb)
-3. [Bayesian](https://github.com/nphan20181/Springboard-Data-Science-Career-Track/blob/master/inferential_statistics_3-Q.ipynb)
+3. [Bayesian Inference](https://github.com/nphan20181/Springboard-Data-Science-Career-Track/blob/master/inferential_statistics_3-Q.ipynb)
 
 ### Machine Learning
 1. [Linear Regression using Boston Housing Dataset](https://github.com/nphan20181/Springboard-Data-Science-Career-Track/blob/master/Mini_Project_Linear_Regression.ipynb)
 
 ## Capstone Projects
 1. [2018 LendingClub Loan Data](https://github.com/nphan20181/Loan-Default-Prediction)
+   - Perform statistical analysis on the data.
+   - Predict the likelihood of a default loan and estimate return on investment (ROI).
 2. Walmart Sales Forecast
