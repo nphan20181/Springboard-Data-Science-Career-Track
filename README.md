@@ -11,6 +11,9 @@ This repository contains all assignments/mini projects for Springboard's Data Sc
 2. [Bootstrap Inference](https://github.com/nphan20181/Springboard-Data-Science-Career-Track/blob/master/inferential_statistics_2-Q.ipynb)
 3. [Bayesian](https://github.com/nphan20181/Springboard-Data-Science-Career-Track/blob/master/inferential_statistics_3-Q.ipynb)
 
+### Machine Learning
+1. [Linear Regression](https://github.com/nphan20181/Springboard-Data-Science-Career-Track/blob/master/Mini_Project_Linear_Regression.ipynb)
+
 ## Capstone Projects
-1. [Loan Default Prediction](https://github.com/nphan20181/Loan-Default-Prediction)
-2. TBD
+1. [2018 LendingClub Loan Data](https://github.com/nphan20181/Loan-Default-Prediction)
+2. Walmart Sales Forecast
