@@ -12,7 +12,7 @@ This repository contains all assignments/mini projects for Springboard's Data Sc
 3. [Bayesian](https://github.com/nphan20181/Springboard-Data-Science-Career-Track/blob/master/inferential_statistics_3-Q.ipynb)
 
 ### Machine Learning
-1. [Linear Regression](https://github.com/nphan20181/Springboard-Data-Science-Career-Track/blob/master/Mini_Project_Linear_Regression.ipynb)
+1. [Linear Regression using Boston Housing Dataset](https://github.com/nphan20181/Springboard-Data-Science-Career-Track/blob/master/Mini_Project_Linear_Regression.ipynb)
 
 ## Capstone Projects
 1. [2018 LendingClub Loan Data](https://github.com/nphan20181/Loan-Default-Prediction)
