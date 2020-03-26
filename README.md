@@ -18,7 +18,5 @@ This repository contains all assignments/mini projects for Springboard's Data Sc
 4. [Customer Segmentation Using Clustering](https://github.com/nphan20181/Springboard-Data-Science-Career-Track/blob/master/clustering/Mini_Project_Clustering.ipynb)
 
 ## Capstone Projects
-1. [2018 LendingClub Loan Data](https://github.com/nphan20181/Loan-Default-Prediction)
-   - Perform statistical analysis on the data.
-   - Predict the likelihood of a default loan and estimate return on investment (ROI).
+1. [Analysis of 2018 LendingClub Loan Data](https://github.com/nphan20181/Loan-Default-Prediction)
 2. Walmart Sales Forecast
