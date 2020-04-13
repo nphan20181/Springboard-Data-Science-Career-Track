@@ -19,4 +19,4 @@ This repository contains all assignments/mini projects for Springboard's Data Sc
 
 ## Capstone Projects
 1. [Analysis of 2018 LendingClub Loan Data](https://github.com/nphan20181/Loan-Default-Prediction)
-2. Walmart Sales Forecast
+2. [Analysis of Walmart Sales (2/5/2010 to 11/1/2012)](https://github.com/nphan20181/walmart_sales)
